@@ -2,7 +2,7 @@
 
 A modern web application for discovering and managing college events, hackathons, and workshops. Built with Next.js, TypeScript, and Tailwind CSS.
 
-![College Events Hub Screenshot](screenshot.png)
+
 
 ## Features
 
